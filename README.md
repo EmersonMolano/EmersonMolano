@@ -63,7 +63,7 @@ Construir una IA capaz de:
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/EmersonMolano">
     <img alt="github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="28"/>
   </a>
 </p>
