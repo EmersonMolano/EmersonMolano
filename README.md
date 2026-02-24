@@ -35,68 +35,27 @@
 
 ---
 
-## 🔥 Proyectos destacados
-
-🧬 **Sistema Hospitalario (Java)**  
-Simulación completa con:
-
-- Clínicas  
-- Ambulancias  
-- Pacientes  
-- Conductores  
-- Sistema de distancias y asignaciones  
-
-Aplicando Programación Orientada a Objetos real.
-
----
-
-🗄️ **Sistema de Registro de Gimnasio (PHP + MySQL)**
-
-Incluye:
-
-- Registro de usuarios  
-- Planes (Básico, Medio, Premium)  
-- Gestión de datos  
-- Conexión a base de datos  
-
----
-
-📐 **Sistema de cálculo de áreas (PHP — OOP)**
-
-Uso de:
-
-- Clases
-- Herencia
-- Polimorfismo
-
-Para calcular áreas de figuras geométricas.
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark-green&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark-green&hide_border=true"/>
-</p>
+# Conocimientos en:
+- Full Stack Developer — *más enfocado en Front-end*
+- Java
+- JS
+- MySQL
 
 ---
 
 ## 🧪 Actualmente aprendiendo
 
+- Tecnologo en Analisis y desarrollo de Software en el Sena
 - Inteligencia Artificial desde cero
 - Optimización de sistemas
-- Algoritmos
-- Arquitectura de software
 
 ---
 
-## 🎯 Objetivo a largo plazo
+## 🎯 Objetivo a largo muy plazo
 
 Construir una IA capaz de:
 
 - Optimizar recursos del sistema
-- Adaptarse al usuario
 - Mejorar el rendimiento automáticamente
 
 ---
