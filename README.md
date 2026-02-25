@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Emerson+Calet;Molano+Cardozo;Software+Developer+in+Training;Java+%7C+PHP+%7C+SQL+%7C" alt="Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Emerson+Calet;Molano+Cardozo;Software+Developer+in+Training;Java+%7C+PHP+%7C+MySQL+%7C" alt="Title"/>
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🎓 **Estado:** Estudiante de Análisis y Desarrollo de Software en el :contentReference[oaicite:0]{index=0}  
 - 💻 **Enfoque principal:** Lógica, Programación Orientada a Objetos y Bases de Datos  
 - ⚙️ **Lenguajes principales:** Java, MySQL  
-- 🤖 **Objetivo futuro:** Desarrollar Inteligencia Artificial y Seguridad  
+- 🤖 **Objetivo futuro:** Desarrollar de Inteligencia Artificial, Seguridad y Video Juegos
 - 🧩 **Mentalidad:** Primero entender, luego optimizar, después automatizar  
 - 🌌 **Filosofía:** El software no es solo código, es lógica cristalizada
 
@@ -22,15 +22,14 @@
 ## ⚡ Lenguajes y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,js,html,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,git,github&theme=dark"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge"/>
 </p>
 
 ---
@@ -38,7 +37,7 @@
 # Conocimientos en:
 - Full Stack Developer — *más enfocado en Front-end*
 - Java
-- JS
+- Docker
 - MySQL
 
 ---
@@ -51,13 +50,17 @@
 
 ---
 
-## 🎯 Objetivo a largo muy plazo
+## 🎯 Planes a futuro:
+
+En lo Laboral:
+
+- 
 
 Construir una IA capaz de:
 
 - Optimizar recursos del sistema
 - Mejorar el rendimiento automáticamente
-
+- Asistente Virtual
 ---
 
 ## 📫 Contacto
