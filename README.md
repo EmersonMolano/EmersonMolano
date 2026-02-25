@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Emerson+Calet;Molano+Cardozo;Software+Developer+in+Training;Java+%7C+PHP+%7C+SQL+%7C+Future+AI+Engineer;Building+Logic+Before+Interfaces" alt="Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Emerson+Calet;Molano+Cardozo;Software+Developer+in+Training;Java+%7C+PHP+%7C+SQL+%7C" alt="Title"/>
 </div>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 - 🎓 **Estado:** Estudiante de Análisis y Desarrollo de Software en el :contentReference[oaicite:0]{index=0}  
 - 💻 **Enfoque principal:** Lógica, Programación Orientada a Objetos y Bases de Datos  
-- ⚙️ **Lenguajes principales:** Java, PHP, SQL  
-- 🤖 **Objetivo futuro:** Desarrollar Inteligencia Artificial capaz de optimizar recursos del sistema (CPU, RAM, GPU)  
+- ⚙️ **Lenguajes principales:** Java, MySQL  
+- 🤖 **Objetivo futuro:** Desarrollar Inteligencia Artificial y Seguridad  
 - 🧩 **Mentalidad:** Primero entender, luego optimizar, después automatizar  
 - 🌌 **Filosofía:** El software no es solo código, es lógica cristalizada
 
@@ -22,7 +22,7 @@
 ## ⚡ Lenguajes y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,js,html,css,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,js,html,git,github&theme=dark"/>
 </p>
 
 <p align="center">
