@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME: Emerson Calet Molano Cardozo
+GITHUB_USER: EmersonMolano
+EMAIL: emersoncaletmolano@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Emerson+Calet;Molano+Cardozo;Software+Developer+in+Training;Java+%7C+PHP+%7C+MySQL+%7C" alt="Title"/>
 </div>
